@@ -10,7 +10,7 @@ Purpose: Virtual PC Assistant - Kiddo is developed to help any individual do the
 much easier and modern way. Your personal PC assistant comes in two mode - Speech and Text. You can interact in either
 way - through your melodious voice or through your mobile when you run sore throat.
 Imagine waking up one lazy Saturday morning. How do you want to start your day? Perhaps sleep again?
-Well, our specially designed assistant can play you a right music from your music library(depending on your mood) on one
+Well, our specially designed assistant can play you a right music from your music library (depending on your mood) on one
 go. Kiddo can update you with temperature outside so that you have the right clothes for your brisk walk. What more?
 Your personalized PC assistant can update you with current twitter hashtag trends or simply keep you in conversation
 if you are feeling too low. Clocks not working? Well, Kiddo has got you covered. Just ask for time and your assistant
