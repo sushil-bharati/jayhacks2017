@@ -21,8 +21,8 @@ read out your horoscope to you?
 
 Libraries Used: 
 
-1.NLTK Language Processor
-2.Google Voice Recognition API
+1.NLTK Language Processor \n
+2.Google Voice Recognition API \n
 3.Google Calendar API
 4.OAuth2 Authentication
 5.Twilio-Cloud Communication Platform
