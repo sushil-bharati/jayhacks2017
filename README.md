@@ -1,5 +1,5 @@
-# jayhacks2017
-JayHacks is the hackathon at the University of Kansas. I participated in Jayhacks, 2017 and was much fun and learning. Recommended.
+# Kiddo - Your personalized PC Assistant
+Kiddo was born in Jayhacks event. JayHacks is the hackathon at the University of Kansas. I participated in Jayhacks, 2017 and was much fun and learning. Recommended.
 
 Event: Jayhacks , Feb 17-19, 2017
 Location: LEEP 2 Building, University of Kansas, Lawrence, 66045
