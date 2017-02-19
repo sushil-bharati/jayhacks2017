@@ -19,6 +19,20 @@ entire year.. or perhaps week if you are a student like me. Can you ask for more
 games (text mode) to keep you going when your best friend went for a week vacation. Did I mention that Kiddo can
 read out your horoscope to you?
 
+Libraries Used: 
+
+1.NLTK Language Processor
+2.Google Voice Recognition API
+3.Google Calendar API
+4.OAuth2 Authentication
+5.Twilio-Cloud Communication Platform
+6.Natural Language to Date Time Parser
+7.Music Playing Library
+8.Web Scraping for Temperature, Horoscopes in real time
+9.Twitter API
+10.Two Way Mobile phone Gameplay
+
+
 Future Work:
 
 1. Integrating Artificial Intelligence to learn more sentiments of the people around
