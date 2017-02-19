@@ -132,8 +132,6 @@ try:
                     spoken = lst2.lower().split()
                     flag1 = False
 
-
-
         if any(words in spoken for words in temperature): #temperature update
             response = urlopen('https://www.wunderground.com/us/ks/lawrence').read()
             soup = BeautifulSoup(response,'html.parser')
@@ -173,9 +171,7 @@ try:
                 engine.say(msg)
                 engine.runAndWait()
             if myAttrib == 'text': client.messages.create(to=my_cell,from_=my_twilio, body=msg)
-            ##
             val = listen(myAttrib)
-            ##
             strMusic = 'F:\\workout_music\\'+''.join(val)+'.mp3'
             mixer.init()
             mixer.music.load(strMusic)
@@ -266,7 +262,6 @@ try:
             print(title2)
             realTime = gdate.grabTime(title2)
             print(realTime)
-            ###
             engine.say('When does your' + title1 + ' end?')
             engine.runAndWait()
             while True:
@@ -284,7 +279,6 @@ try:
             print(title3)
             realTime2 = gdate.grabTime(title3)
             print(realTime2)
-            ##
             gcal.createCalEvent(realTime,realTime2,title1)
         elif any(words in spoken for words in horo): #Horoscope feature
             strSpeak = 'What is your sun sign?'
