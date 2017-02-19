@@ -19,8 +19,13 @@ games (text mode) to keep you going when your best friend went for a week vacati
 read out your horoscope to you?
 
 Future Work:
+
 1. Integrating Artificial Intelligence to learn more sentiments of the people around
+
 2. Implementation of Computer Vision (For example, Facial Recognition) for smart assistant
+
 3. Further improvement on Natural Language Processing and Voice recognition software than existing
+
 4. Making Kiddo more flexible on user end
+
 5. Further updates(ver. Youngo)- News Headlines Reader, Movie Recommendations (personalized Machine Learning in Netflix)
