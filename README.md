@@ -3,6 +3,7 @@ Kiddo was born in Jayhacks event. JayHacks is the hackathon at the University of
 
 Event: Jayhacks , Feb 17-19, 2017
 Location: LEEP 2 Building, University of Kansas, Lawrence, 66045
+
 Developers: Sushil, Manjish
 
 Purpose: Virtual PC Assistant - Kiddo is developed to help any individual do the common chores as well as entertain in
