@@ -17,7 +17,7 @@ def wait(client):
             lst2 = ''
             return lst
 
-#Guess my number game (Nerd game :P)
+#Guess my number game (Nerd game coz we don't have Candy Crush)
 def guesstheNumber(client):
     guessNum=random.randint(1,100)
     flag=True
