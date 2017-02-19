@@ -31,6 +31,7 @@ Libraries Used:
 8.  Web Scraping for Temperature, Horoscopes in real time
 9.  Twitter API
 10. Two Way Mobile phone Gameplay
+11. PyAudio
 
 Future Work:
 
