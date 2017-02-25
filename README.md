@@ -25,7 +25,7 @@ Libraries Used:
 2.  Google Voice Recognition API
 3.  Google Calender API
 4.  OAuth2 Authentication
-5.  Twiio - Cloud Communication Platform
+5.  Twilio - Cloud Communication Platform
 6.  Natural Language to Date Time Parser
 7.  Music Playing Library
 8.  Web Scraping for Temperature, Horoscopes in real time
